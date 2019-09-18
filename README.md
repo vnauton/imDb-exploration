@@ -20,8 +20,6 @@ For this project, I was interestested in using IMDB 5000 movies to better unders
 3. Propose a wordcloud with top popular movies name
 4. Machine learning technique to check feature importance related to imdb score
 
-https://medium.com/@vnauton/how-data-sciences-can-help-you-decide-witch-movie-to-watch-tonight-d2f363c70895?sk=574180b58ac2c882e872a69d90a0b017
-
 
 ## File Descriptions <a name="files"></a>
 
@@ -30,7 +28,7 @@ There are 1 notebook available here to showcase work related to the above questi
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@vnauton....).
+The main findings of the code can be found at the post available [here](https://medium.com/@vnauton/how-data-sciences-can-help-you-decide-witch-movie-to-watch-tonight-d2f363c70895?sk=574180b58ac2c882e872a69d90a0b017).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
